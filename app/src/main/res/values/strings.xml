@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">takingdata</string>
+    <string name="welcome_to_my_restuarant">Welcome To My Restuarant</string>
+    <string name="order_4">order 4</string>
+    <string name="order_3">order 3</string>
+    <string name="order_2">order 2</string>
+    <string name="order_1">order 1</string>
+    <string name="placeorder">PlaceOrder</string>
+</resources>
